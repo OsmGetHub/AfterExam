@@ -1,0 +1,29 @@
+[
+    {
+        "Ecole" : "Faculte des science d'Agadir",
+        "Diplome" : "Diplome d'etudes universitaire generale",
+        "Image" : "https://bit.ly/3VCc1gC",
+        "Domain" : "SMI",
+        "DateDebut" : "20/05/2023",
+        "DateFin" : "20/05/2025",
+        "Mention" : "Assez bien"
+    },
+    {
+        "Ecole" : "Faculte des science d'Agadir",
+        "Diplome" : "Diplome d'etudes universitaire generale",
+        "Image" : "https://bit.ly/3VCc1gC",
+        "Domain" : "SMI",
+        "DateDebut" : "20/05/2023",
+        "DateFin" : "20/05/2025",
+        "Mention" : "Assez bien"
+    },
+    {
+        "Ecole" : "Faculte des science d'Agadir",
+        "Diplome" : "Diplome d'etudes universitaire generale",
+        "Image" : "https://bit.ly/3VCc1gC",
+        "Domain" : "SMI",
+        "DateDebut" : "20/05/2023",
+        "DateFin" : "20/05/2025",
+        "Mention" : "Assez bien"
+    }
+]

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>{% block title %}Aidus{% endblock %}</title>
+
+    </head>
+    <body>
+        {% block body %}
+        {% endblock %}
+    </body>
+        {% block stylesheets %}
+            <style>
+                body{
+                    padding: 0px;
+                    margin : 0px;
+                }
+            </style>
+{#            <link href="{{ asset('/app.css') }}" rel="stylesheet"/>#}
+        {% endblock %}
+    {% block javascripts %}{% endblock %}
+</html>

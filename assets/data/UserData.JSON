@@ -1,0 +1,18 @@
+[
+  {
+    "cne" : "D33515005",
+    "cni" : "jt101634",
+    "nom" : "EL FILA",
+    "prenom" : "OUSSAMA",
+    "sexe" : "Masculin",
+    "dateNaissance" : "05 11 2001",
+    "adresse" : "COMPLEXE IBN ZOHR, 80070, Agadir",
+    "ville" : "Agadir",
+    "telephone" : "+212 657892512",
+    "email" : "elfilaoussama@gmail.com",
+    "type_utilisateur" : "E",
+    "date_diplome" : "15/06/2023",
+    "isPrivate" : true,
+    "isVisible" : true
+  }
+]

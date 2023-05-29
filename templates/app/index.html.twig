@@ -1,0 +1,137 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+    <style>
+        @import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700;800;900&display=swap");
+        ::-webkit-scrollbar {
+            width: 10px;
+        }
+
+        /* Track */
+        ::-webkit-scrollbar-track {
+            background: rgb(232, 232, 232);
+
+        }
+
+        /* Handle */
+        ::-webkit-scrollbar-thumb {
+            background: #888;
+
+        }
+
+        /* Handle on hover */
+        ::-webkit-scrollbar-thumb:hover {
+            background: #555;
+        }
+        a{
+            color : #707070;
+            text-decoration: none;
+        }
+
+        a.navLink:hover {
+            color : #12549B;
+            font-weight: bold;
+        }
+        a.navLink:active {
+            color : #12549B;
+            font-weight: bold;
+        }
+        a.navLink:focus {
+            color : #12549B;
+            font-weight: bold;
+        }
+
+
+        .nav-underline {
+            position: absolute;
+            bottom: 0; /* Position the underline at the bottom of the nav */
+            left: 0;
+            height: 3px;
+            background-color: #12549B;
+            transition: width 0.2s ease-in-out;
+            width: 0; /* Start with a width of 0 */
+        }
+        a.navLink:focus:after ~ .nav-underline {
+             width: 100%;
+         }
+        /*Style pagination*/
+        .pagination {
+            display: flex;
+            justify-content: center;
+            list-style: none;
+        }
+
+        .pagination a {
+            color: black;
+            float: left;
+            padding: 8px 16px;
+            text-decoration: none;
+        }
+
+        .pagination a.active {
+            background-color: #12549B;
+            color: white;
+        }
+
+        .pagination a:hover:not(.active) {background-color: #ddd;}
+
+        /*Style modal*/
+        *{
+            padding: -2px;
+        }
+        div.modal-main{
+            display: flex;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.458);
+        }
+        div#add-to-profile  div.head-modal {
+            margin : 15px 3% 15px 2%;
+            display: flex;
+            justify-content: space-between;
+            font-family: "Outfit", sans-serif;
+            color: black;
+            font-size: 1.3em;
+            padding: 0px 3%;
+            font-weight: 500;
+        }
+        div#add-to-profile{
+            background-color: white;
+            width: 20%;
+            margin: auto;
+            border: 2px solid rgba(132, 132, 132, 0.476);
+            text-align: left;
+            border-radius: 20px;
+            padding: 5px 0px;
+        }
+        p{
+            padding: 2px 3%;
+            color: gray;
+            margin-left: 5%;
+        }
+        hr.second{
+            margin-left: 7%;
+        }
+
+        div#add-to-profile button {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 1.05em;
+            border: 0px;
+            background-color: transparent;
+        }
+        body {
+            overflow-x: hidden;
+            overflow-y: scroll;
+        }
+        #root{
+            min-width: 1100px;
+        }
+    </style>
+    <div id="root"></div>
+{% endblock %}
+{% block javascripts %}
+    {{ encore_entry_script_tags('indexjs') }}
+{% endblock %}

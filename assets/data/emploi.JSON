@@ -1,0 +1,33 @@
+[
+  {
+    "titre" : "Consultant Technique Power BI Junior",
+    "date" : "15-05-2023",
+    "entreprise": "VISION BUSINESS CONSULTING",
+    "description" : "Nous sommes à la recherche d'un Spécialiste en Vente des Systèmes d'Information pour rejoindre notre équipe dynamique au sein de notre société. En tant que représentant de notre entreprise, vous serez amené à vendre et promouvoir les produits et services des systèmes d'information auprès de nos clients.",
+    "logo" : "https://www.emploi.ma/sites/default/files/styles/medium/public/logo/vision.png?itok=eNsc3d5V"
+  },
+
+  {
+    "titre" : "Développeur Python",
+    "date" : "14-05-2023",
+    "entreprise": "MAROC FORCE EMPLOI",
+    "description" : "Nous recrutons pour notre client spécialisé de Technologie Appliquée un Développeur Python à Fès.",
+    "logo" : "https://www.emploi.ma/sites/default/files/styles/medium/public/logo/logo_262.png?itok=N-9EmL2X"
+  },
+
+  {
+    "titre" : "Administrateur de Base de Données",
+    "date" : "13-05-2023",
+    "entreprise": "RED TIC",
+    "description" : "RED TIC, comme son nom l'indique, est une société avec des valeurs d'expertise dans le domaine de l'IT. Nous connaissons le besoin du... ",
+    "logo" : "https://www.emploi.ma/sites/default/files/styles/medium/public/logo/0_10.png?itok=ir59q6Bm"
+  },
+
+  {
+    "titre" : "Administrateur Systèmes/Réseaux",
+    "date" : "12-05-2023",
+    "entreprise": "RED TIC",
+    "description" : "Nous recrutons pour notre client spécialisé de Technologie Appliquée un Développeur Python à Fès.",
+    "logo" : "https://www.emploi.ma/sites/default/files/styles/medium/public/logo/0_10.png?itok=ir59q6Bm"
+  }
+]

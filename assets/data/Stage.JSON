@@ -1,0 +1,34 @@
+[
+  {
+    "titre" : "Stage en Génie Logiciel",
+    "date" : "15-05-2023",
+    "entreprise": "METAVERSE",
+    "description" : "We are a dynamic software development company seeking a highly skilled Java Developer with an academic background in Genie Logiciel (Software Engineering). Our company specializes in building cutting-edge software solutions for various industries. As a Java Developer, you will play a vital role in the development, implementation, and maintenance of our software applications.",
+    "logo" : "https://s3.eu-central-1.amazonaws.com/stagiaires.ma/recruiters/logos/2023/03/x100/15682_metaverse.jpeg"
+  },
+
+  {
+    "titre" : "Stage en Génie Informatique",
+    "date" : "13-05-2023",
+    "entreprise": "WEBEX AG",
+    "description" : "Nous recherchons deux stagiaires passionnés et talentueux pour rejoindre notre équipe de développement en tant que stagiaires en développement Front-end (react native) et/ou Back-end (Java/SQL). Ce stage, d'une durée de 2 à 3 mois, sera basé à Rabat, Avenue Fal Ould Oumeir à Agdal Rabat. En tant que stagiaire, vous serez impliqué(e) dans le développement de nouvelles fonctionnalités pour notre application Diaggy, en utilisant les technologies React Native et/ou Java/SQL/API. ",
+    "logo" : "https://www.emploi.ma/sites/default/files/styles/medium/public/logo/0_10.png?itok=ir59q6Bm"
+  },
+
+  {
+    "titre" : "Stage en Développement mobile et/ou Backend",
+    "date" : "14-05-2023",
+    "entreprise": "UXload",
+    "description" : "Nous recherchons deux stagiaires passionnés et talentueux pour rejoindre notre équipe de développement en tant que stagiaires en développement Front-end (react native) et/ou Back-end (Java/SQL). Ce stage, d'une durée de 2 à 3 mois, sera basé à Rabat, Avenue Fal Ould Oumeir à Agdal Rabat. En tant que stagiaire, vous serez impliqué(e) dans le développement de nouvelles fonctionnalités pour notre application Diaggy, en utilisant les technologies React Native et/ou Java/SQL/API.",
+    "logo" : ""
+  },
+
+
+  {
+    "titre" : "Stage en Génie Informatique",
+    "date" : "12-05-2023",
+    "entreprise": "WEBEX AG\n",
+    "description" : "Nous recrutons pour notre client spécialisé de Technologie Appliquée un Développeur Python à Fès.",
+    "logo" : "https://www.emploi.ma/sites/default/files/styles/medium/public/logo/0_10.png?itok=ir59q6Bm"
+  }
+]
